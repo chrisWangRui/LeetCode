@@ -12,4 +12,5 @@ LeetCode Algorithm:
   May 31, 2020:   Q1 Done (Java)
   June 1, 2020:   Q2 Done (Java)
   June 2, 2020:   Q3 Done (Java)
-  June 3, 2020:   Q4 Done (Java - Not Perfect)
+* June 3, 2020:   Q4 Done (Java - Not Perfect)
+* June 4, 2020:   Q5 Done (Java - Not Perfect)
